@@ -1,7 +1,7 @@
 # AI-Generated-Text-Detection-Using-Comparative-Embedding-and-Classification-Methods
  **ELEC 877 Research Project:** 
 Detecting AI-Generated Text Using Comparative Embedding Methods with Different ML Classifiers
-By: Maahum Khan
+# By: Maahum Khan
 
 # 
 **NOTE:** Due to file size, code cannot be opened in GitHub (or at least output is not shown). To see output, please open file in Google CoLab. Can also run all cell blocks to see outputs (random seed used, so results will be reproduced identical to those in report).
