@@ -4,7 +4,8 @@ Detecting AI-Generated Text Using Comparative Embedding Methods with Different M
 By: Maahum Khan
 
 # 
-NOTE: Due to file size, code cannot be opened in GitHub (or at least output is not shown). To see output, please open file in Google CoLab. Can also run all cell blocks to see outputs (random seed used, so results will be reproduced identical to those in report).
+**NOTE:** Due to file size, code cannot be opened in GitHub (or at least output is not shown). To see output, please open file in Google CoLab. Can also run all cell blocks to see outputs (random seed used, so results will be reproduced identical to those in report).
+#
 Overview of Code: 
 - Detecting AI-generated text in a scientific context (i.e. research abstracts).
 - Using 3 different embedding methods: 2 BERT models — Mini-BERT/Mini-LM, 394-dimensional embeddings, and Base BERT, 768-dim embedding — and TF-IDF vectorization. 
