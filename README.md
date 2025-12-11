@@ -1,6 +1,6 @@
 # AI-Generated-Text-Detection-Using-Comparative-Embedding-and-Classification-Methods
  **ELEC 877 Research Project:** 
-Detecting AI-Generated Text Using BERT Embeddings with Different ML Classifiers
+Detecting AI-Generated Text Using Comparative Embedding Methods with Different ML Classifiers
 By: Maahum Khan
 
 # 
